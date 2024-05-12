@@ -1,4 +1,4 @@
-![Screenshot_1715488135](https://github.com/Eakkayuth/motor_show_2024_app/assets/165863160/40c982b4-6dfe-4d24-88c3-1d8164e8ea47)# motor_show_2024_app
+# motor_show_2024_app
 
 มอเตอร์โชว์
 
